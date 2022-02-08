@@ -4,7 +4,7 @@ repo: status_page # The name of this repository
 
 sites: # List of endpoints to track
   - name: SIGGES
-    url: https://sigges.cl
+    url: https://www.sigges.cl
 assignees: # Users to assign downtime issues (optional)
   - paulovillarroel
   
