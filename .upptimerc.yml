@@ -5,11 +5,8 @@ repo: status_page # The name of this repository
 sites:
   - name: SIGGES
     url: https://www.sigges.cl/
-    
- assignees: 
-  - paulovillarroel
   
- status-website:
+status-website:
   theme: dark
 
 status-website:
